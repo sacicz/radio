@@ -4,6 +4,8 @@
 
 Internet radio and podcasts for the Mudita Kompakt, designed for E Ink: black and white, no animations, no account.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J4V82A4UVG)
+
 ## What it can do
 
 **Radio**
