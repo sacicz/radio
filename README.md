@@ -27,14 +27,19 @@ Internet radio and podcasts for the Mudita Kompakt, designed for E Ink: black an
 - Sleep timer for radio, podcasts or both
 - Your favorites and own links stay available without internet
 
-**Languages:** English, Croatian, Spanish
+**Audio output**
+- Choose the phone speaker, headphones or Bluetooth
+- Send the radio or a podcast to Sonos and DLNA speakers on your Wi-Fi; the speaker then plays it by itself
+- Optional sleep timer while a speaker plays
+
+**Languages:** Croatian, English, German, French, Spanish, Italian, Portuguese, Dutch, Polish, Czech
 
 ## Permissions
 - Internet: to find stations and play audio
 - Camera: only to scan a QR code, while the scanner is open; no picture is saved
 - Notifications and background playback: to keep audio playing
 
-The station list comes from the Radio Browser directory.
+The station list comes from the Radio Browser directory. The app also connects directly to speakers on your local network while Audio output is open or a speaker is playing.
 
 ## Install
 Download the latest APK from [Releases](../../releases/latest) and install it on your Kompakt with Mudita Center.
